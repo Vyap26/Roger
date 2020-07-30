@@ -3,6 +3,7 @@
 
 1. Диск
 df -h
+
 lsblk
 
 2. Firewall
