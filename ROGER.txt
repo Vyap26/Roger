@@ -78,11 +78,8 @@ minute   hour   day   month   dayofweek   command
 8. Сайт на https://192.168.56.2
 9. Deployment - Ansible
 
-https://www.digitalocean.com/community/tutorials/how-to-configure-apache-using-ansible-on-ubuntu-14-04
-
 10. Deployment 2
-scp scp file.gz root@server.my:/home/dir
-
+scp file.gz root@server.my:/home/dir
 
 Скопировать локальный файл на сервер:
 
@@ -96,17 +93,3 @@ scp -r root@server1.my:/home/dir/ root@server2.my:/home/dir/
 С указанием порта:
 
 scp -P 9999 file.zip user@server.my:~/
-
-/var/www/roger там лежит index.html  и папка Fedora_files
-
-
-
-
-
-
-
-
-
-
-
-
